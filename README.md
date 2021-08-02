@@ -1,6 +1,6 @@
 # Design of PLL IC using SKY130
 
-<b> Agenda for Day 1: </b> <br>
+<h2> Workshop agenda for Day 1: </h2>
 
 1. Introduction to PLL
 2. Phase Locked Loop Intuition
@@ -14,7 +14,7 @@
 10. Circuit Design and Simulation tool setup - Ngspice
 11. Layout Design tool setup - Magic
 
-<b> Agenda for Day 2: </b> <br>
+<h2> Workshop agenda for Day 2: </h2>
 
 1. PLL Components: Circuit Design
 2. PLL Components: Circuit Simulation
@@ -28,3 +28,7 @@
 10. Combining Layouts
 11. Tapeout Theory
 12. Tapeout LAB
+
+<b> Introduction to PLL: </b> <br>
+
+PLL is used to get a precise clock signal without frequency or phase noise.
